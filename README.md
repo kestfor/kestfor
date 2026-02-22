@@ -1,118 +1,83 @@
-<h1 align="center">Hi 👋 I'm Ilya</h1>
+<h1 align="center">
+  👋 Hey there! I'm <sup>kestfor</sup>
+</h1>
 
 <p align="center">
-  <strong>Backend & Systems Engineer • Go Enthusiast</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=650&lines=Software Development Engineer" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Go+Engineer;Backend+Developer;Distributed+Systems+Explorer;Networking+%7C+Databases+%7C+Concurrency" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60"/>
-</p>
-
----
-
-# 🚀 About Me
-
-I'm a backend and systems engineer passionate about building reliable, scalable and high-performance systems.
-
-My main language is **Go**, and I enjoy working on:
-
-- Distributed systems  
-- Database internals  
-- Networking (DNS, BGP, protocols)  
-- High-load backend services  
-- Concurrency & performance optimization  
-
-I also work with **C, C++, Python**, and occasionally explore other ecosystems.
-
----
-
-# 🧠 Current Focus
-
-- Designing scalable backend architectures in Go  
-- Building in-memory and data-intensive systems  
-- Improving system performance & memory efficiency  
-- Exploring networking stack and infrastructure patterns  
-
----
-
-# ✨ Featured Projects
-
-### 🔹 in-memorydb
-High-performance in-memory distributed database written in Go.
-
-### 🔹 VideoDownloaderBot
-Telegram bot written in Go for downloading videos.  
-Practical backend architecture with external integrations.
-
-### 🔹 SpotifyTgBot
-Telegram ↔ Spotify integration bot written in Python.  
-API integration, async flows, user interaction.
-
-### 🔹 MusicFinderBot
-Music discovery/search bot with external API integrations.
-
-### 🔹 GeoApp
-Mobile prototype application built with Dart / Flutter.
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-- Go (primary)
-- C / C++
-- Python
-- Dart
-
-## Backend & Infrastructure
-- PostgreSQL
-- Redis
-- REST APIs
-- gRPC
-- Docker
-- CI/CD
-
-## Engineering Concepts
-- Clean Architecture
-- DDD
-- Event-Driven Systems
-- Concurrency Patterns
-- Distributed System Design
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kestfor&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestfor&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kestfor&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60" alt="Waving Hand"/>
 </p>
 
 ---
 
-# 🏗 Engineering Philosophy
+## 🚀 About Me
 
-I value:
+I'm a Backend & Systems Engineer who loves building high-performance applications, exploring distributed systems and mastering **Go programming**.  
+I also enjoy:
 
-- Simplicity over unnecessary abstraction  
-- Explicitness over magic  
-- Performance with clarity  
-- Clean, maintainable code  
-- Deep understanding of systems instead of shallow tooling knowledge  
+- 🧠 System architecture & software design  
+- 🔧 Building tools, services and bots  
+- 📈 Improving performance & concurrency models  
 
 ---
 
-# 📚 Currently Learning
+## 🔰 Skills & Badges
 
-- Distributed systems patterns  
-- Database engine internals
-- Networking protocols
-- Low-level performance optimization
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-Lang-00ADD8?logo=go&logoColor=white" alt="Go Badge"/>
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?logo=github&logoColor=white" alt="Backend Badge"/>
+  <img src="https://img.shields.io/badge/Distributed+Systems-lightgrey" alt="Distributed Systems"/>
+  <img src="https://img.shields.io/badge/Concurrency-magenta" alt="Concurrency"/>
+  <img src="https://img.shields.io/badge/Performance-green" alt="Performance"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kestfor&show_icons=true&theme=calm" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestfor&layout=compact&theme=calm" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kestfor&theme=calm" alt="Contribution Streak"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kestfor&theme=calm" alt="Trophies"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  [![in-memorydb](https://github-readme-stats.vercel.app/api/pin/?username=kestfor&repo=in-memorydb&theme=calm)](https://github.com/kestfor/in-memorydb)
+  [![VideoDownloaderBot](https://github-readme-stats.vercel.app/api/pin/?username=kestfor&repo=VideoDownloaderBot&theme=calm)](https://github.com/kestfor/VideoDownloaderBot)
+  [![SpotifyTgBot](https://github-readme-stats.vercel.app/api/pin/?username=kestfor&repo=SpotifyTgBot&theme=calm)](https://github.com/kestfor/SpotifyTgBot)
+</p>
+
+*(Hover and click icons to explore the code 🔍)*
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/kestfor"><img src="https://img.shields.io/badge/Telegram-@kestfor-#0088CC?logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```text
+✨ I write Go code like I write poetry — with clarity, elegance and performance 💡
+```
