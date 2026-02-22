@@ -1,83 +1,80 @@
-<h1 align="center">
-  👋 Hey there! I'm <sup>kestfor</sup>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=650&lines=Software Development Engineer" alt="Typing SVG">
-</p>
+# 👋 Hey, I’m **kestfor**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60" alt="Waving Hand"/>
-</p>
+### Software Development Engineer (SDE)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&center=true&vCenter=true&width=980&lines=Building+reliable+backend+systems;Distributed+systems+%7C+Concurrency+%7C+Performance;Turning+complexity+into+clean+engineering" alt="Typing animation" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a Backend & Systems Engineer who loves building high-performance applications, exploring distributed systems and mastering **Go programming**.  
-I also enjoy:
-
-- 🧠 System architecture & software design  
-- 🔧 Building tools, services and bots  
-- 📈 Improving performance & concurrency models  
+- 💼 I’m a **Software Development Engineer (SDE)** focused on backend and systems engineering.
+- ⚙️ I design and implement **high-load services**, APIs, and automation workflows.
+- 🚀 I enjoy solving performance bottlenecks, improving reliability, and building maintainable architecture.
+- 🧩 Main interests: **distributed systems**, **concurrency**, **networking**, and **developer tooling**.
 
 ---
 
-## 🔰 Skills & Badges
+## 🎓 Education
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-Lang-00ADD8?logo=go&logoColor=white" alt="Go Badge"/>
-  <img src="https://img.shields.io/badge/Backend-Developer-blue?logo=github&logoColor=white" alt="Backend Badge"/>
-  <img src="https://img.shields.io/badge/Distributed+Systems-lightgrey" alt="Distributed Systems"/>
-  <img src="https://img.shields.io/badge/Concurrency-magenta" alt="Concurrency"/>
-  <img src="https://img.shields.io/badge/Performance-green" alt="Performance"/>
-</p>
+- **Novosibirsk State University (NSU)**
+- **Faculty of Information Technologies**
+- **4th-year student**
+- Professional track: **Software Development Engineer (SDE)**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,linux,docker,postgres,redis,git,github,bash&perline=10" alt="Tech stack icons" />
+</div>
+
+<br/>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kestfor&show_icons=true&theme=calm" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestfor&layout=compact&theme=calm" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kestfor&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestfor&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kestfor&theme=calm" alt="Contribution Streak"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kestfor&theme=calm" alt="Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kestfor&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Top Repositories
 
-<p align="center">
-  [![in-memorydb](https://github-readme-stats.vercel.app/api/pin/?username=kestfor&repo=in-memorydb&theme=calm)](https://github.com/kestfor/in-memorydb)
-  [![VideoDownloaderBot](https://github-readme-stats.vercel.app/api/pin/?username=kestfor&repo=VideoDownloaderBot&theme=calm)](https://github.com/kestfor/VideoDownloaderBot)
-  [![SpotifyTgBot](https://github-readme-stats.vercel.app/api/pin/?username=kestfor&repo=SpotifyTgBot&theme=calm)](https://github.com/kestfor/SpotifyTgBot)
-</p>
+### [`in-memorydb`](https://github.com/kestfor/in-memorydb)
+Lightweight in-memory distributed database with CRDT.
 
-*(Hover and click icons to explore the code 🔍)*
+### [`AutoEnterprise`](https://github.com/kestfor/AutoEnterprise)
+Coursework for Database discipline containing backend with gRPC written in Go and frontend Flutter app.
 
----
+### [`CrackHash`](https://github.com/kestfor/CrackHash)
+Coursework for Distributed Systems representing distributed app for cracking md5 hash.
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://t.me/kestfor"><img src="https://img.shields.io/badge/Telegram-@kestfor-#0088CC?logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
+### [`GeoApp`](https://github.com/kestfor/GeoApp)
+Application for sharing media files pinned on map between your friends
 
 ---
 
-## ⚡ Fun Fact
+## 🤝 Contact
 
-```text
-✨ I write Go code like I write poetry — with clarity, elegance and performance 💡
-```
+<div align="center">
+  <a href="https://t.me/kestfor"><img src="https://img.shields.io/badge/Telegram-@kestfor-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</div>
+
+---
+
+## ⚡ Motto
+
+> Build software that is simple to use, hard to break, and easy to scale.
