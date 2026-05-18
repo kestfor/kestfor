@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,linux,docker,postgres,redis,git,github,bash&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,linux,docker,postgres,redis&perline=10" alt="Tech stack icons" />
 </div>
 
 <br/>
